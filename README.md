@@ -16,8 +16,7 @@ Este repositório contém pequenos projetos que demonstram como conectar, criar 
 ## 📌 Projetos incluídos
 - **📚 Livraria (SQLite)** → Cadastro e consulta de livros.  
 - **🏬 Loja (MySQL)** → Sistema de estoque básico.  
-- **🏢 Empresa (MySQL)** → Cadastro de funcionários.  
-- **🔎 Testes (MySQL/SQLite)** → Exemplos de conexão e consultas.  
+- **🏢 Empresa (MySQL)** → Cadastro de funcionários.   
 
 ---
 
