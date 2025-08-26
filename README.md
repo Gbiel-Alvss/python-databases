@@ -18,9 +18,4 @@ Este repositório contém pequenos projetos que demonstram como conectar, criar 
 - **🏬 Loja (MySQL)** → Sistema de estoque básico.  
 - **🏢 Empresa (MySQL)** → Cadastro de funcionários.   
 
----
 
-## ⚙️ Como Executar
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/python-databases.git
